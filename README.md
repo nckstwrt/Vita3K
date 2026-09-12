@@ -33,15 +33,16 @@ https://github.com/nckstwrt/Vita3K-Plus/releases
 - **Omega Labyrinth** - Loading fixed by nishinji
 - **Dynasty Warriors 8** - Fixed text/graphics clipping
 - **Samurai Warriors 3** - Use Accurate Thread Scheduling to workaround loading bugs
-- **Gundam Breaker 3** - Almost all fixed. Still issues with main character's graphics.
+- **Gundam Breaker 3** - Almost all fixed. Still issues with main character's graphics (I have tried hard and it's the one bug I can't fix!).
 - **SteamWorld Dig** - Loads and plays
 - **UPPERS** - Graphics Fixed
-- **Madden 13** - Face textures fixed
+- **Madden 13** - Face textures + Crowd fixed 
 - **Oddworld: New'n'Tasty** - Graphics Fixed
 - **God Breaker 3** - Graphics Fixed
 - **Sword Art Online** - Latest game patch now works
 - **Disgaea 3** - Saving & Loading now work. liblocation implemented to hopefully stop the 50 min crashes.
 - **Borderlands 2** - Shorten time it checks for PSN
+- **Evil Corps From Hell** - Loading and graphics fixed
 - 
 - Defaults now to External Host for Windows and Native Buffer on Android. **Use these Memory Mapping options for the best compatibility**
 - Lots of memory, timing, IME and sound improvements
